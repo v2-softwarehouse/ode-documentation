@@ -1,4 +1,4 @@
-# Approach
+# Concepts
 
 Ode positions itself as a multithread helper library for digital product development. Based on Clean Architecture and appling GoF Design Patterns and the principles of Clean Code, SOLID, KISS. It leverages both direct and indirect metrics such as:
 
